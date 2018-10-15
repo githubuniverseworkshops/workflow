@@ -22,3 +22,10 @@ _Welcome! :wave: This is the source repository for the [Design a worfkflow for y
 - :point_right: **GitHub Account.** If you don't already have an account with GitHub, sign up and create a new account at https://github.com/join before the workshop.
 - :point_right: Log in to **GitHub** before the workshop begins!
 
+
+# Exercises
+
+- [Exercise 1](https://github.com/universeworkshops/workflow-exercise1): Using a GitHub App to enforce a workflow
+- [Exercise 2](https://github.com/universeworkshops/workflow-exercise2): Using the Checks API
+- [Exercise 3](https://github.com/universeworkshops/workflow-exercise3): Pull Request Reviews and CODEOWNERS
+- [Exercise 4](https://github.com/universeworkshops/workflow-exercise4): Exploring Webhooks
